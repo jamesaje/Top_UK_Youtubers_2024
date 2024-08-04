@@ -22,7 +22,17 @@ Data was sourced from [kaggle](https://www.kaggle.com/datasets/bhavyadhingra0002
 | 9    | Zee Music Company | 109.00          | 
 | 10   | WWE               | 103.00          | 
 
-- **Top YouTuber 2**: [Description and Metrics]
+- **Top 3 channels with most uploaded videos**:
+
+| Rank | YouTuber          | Videos Uploaded |
+| ---- | ----------------- | --------------- |
+| 1    | Maria Clara & JP  | 394540          |
+| 2    | Sony Music India  | 379065          |
+| 3    | Alan Walker       | 231153          |
+
+
+
+
 - **Top YouTuber 3**: [Description and Metrics]
 
 ## Dashboard
