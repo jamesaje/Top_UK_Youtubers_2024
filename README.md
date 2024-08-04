@@ -9,20 +9,20 @@ Data was sourced from [kaggle](https://www.kaggle.com/datasets/bhavyadhingra0002
 ## Key Findings
 - **1. Top 10 Youtubers with the most subscribers**
 
-| Rank | YouTuber          | Subscribers (M) |
-| ---- | ----------------- | --------------- | 
-| 1    | MrBeast           | 307.00          | 
-| 2    | T-Series          | 270.00          | 
-| 3    | Cocomelon         | 179.00          | 
-| 4    | SET India         | 175.00          | 
-| 5    | Kids Diana Show   | 124.00          | 
-| 6    | Vlad and Niki     | 122.00          |
-| 7    | Like Nastya       | 118.00          | 
-| 8    | PewDiePie         | 111.00          |
-| 9    | Zee Music Company | 109.00          | 
-| 10   | WWE               | 103.00          | 
+| Rank | YouTuber                   | Subscribers (M) |
+| ---- | -------------------------- | --------------- | 
+| 1    | MrBeast                    | 307.00          | 
+| 2    | T-Series                   | 270.00          | 
+| 3    | Cocomelon - Nursery Rhymes | 179.00          | 
+| 4    | SET India                  | 175.00          | 
+| 5    | Kids Diana Show            | 124.00          | 
+| 6    | Vlad and Niki              | 122.00          |
+| 7    | Like Nastya                | 118.00          | 
+| 8    | PewDiePie                  | 111.00          |
+| 9    | Zee Music Company          | 109.00          | 
+| 10   | WWE                        | 103.00          | 
 
-- **Top 3 channels with most uploaded videos**:
+- **Top 3 channels with most uploaded videos**
 
 | Rank | YouTuber          | Videos Uploaded |
 | ---- | ----------------- | --------------- |
@@ -30,10 +30,21 @@ Data was sourced from [kaggle](https://www.kaggle.com/datasets/bhavyadhingra0002
 | 2    | Sony Music India  | 379065          |
 | 3    | Alan Walker       | 231153          |
 
+- **Top 3 channels with the most views**
 
+| Rank | YouTuber                     | Total Views (B) |
+| ---- | ---------------------------- | --------------- |
+| 1    | T-Series                     | 262.37          |
+| 2    | Cocomelon - Nursery Rhymes   | 184.76          |
+| 3    | SET India                    | 167.57          |
 
+- **Top 3 channels with highest average views per video**
 
-- **Top YouTuber 3**: [Description and Metrics]
+| Rank | YouTuber            | Avg View per Video (M) |
+| ---- | ------------------- | ---------------------- |
+| 1    | BRIGHT SIDE         | 262.37                 |
+| 2    | TEDx Talks          | 184.76                 |
+| 3    | SonyMusicIndiaVEVO  | 167.57                 |
 
 ## Dashboard
 [View the PowerBI Dashboard](YOUR_LINK_HERE)
