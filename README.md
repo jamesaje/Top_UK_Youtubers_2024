@@ -7,7 +7,20 @@ This project identifies the top US YouTubers in 2024, focusing on potential cand
 Data was sourced from [kaggle](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download) and YouTube. 
 
 ## Key Findings
-- **Top YouTuber 1**: [Description and Metrics]
+- **1. Top 10 Youtubers with the most subscribers**
+| Rank | YouTuber          | Subscribers (M) |
+| ---- | ----------------- | --------------- | 
+| 1    | MrBeast           | 307.00          | 
+| 2    | T-Series          | 270.00          | 
+| 3    | Cocomelon         | 179.00          | 
+| 4    | SET India         | 175.00          | 
+| 5    | Kids Diana Show   | 124.00          | 
+| 6    | Vlad and Niki     | 122.00          |
+| 7    | Like Nastya       | 118.00          | 
+| 8    | PewDiePie         | 111.00          |
+| 9    | Zee Music Company | 109.00          | 
+| 10   | WWE               | 103.00          | 
+
 - **Top YouTuber 2**: [Description and Metrics]
 - **Top YouTuber 3**: [Description and Metrics]
 
