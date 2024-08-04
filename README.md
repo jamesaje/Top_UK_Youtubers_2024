@@ -46,6 +46,22 @@ Data was sourced from [kaggle](https://www.kaggle.com/datasets/bhavyadhingra0002
 | 2    | TEDx Talks          | 184.76                 |
 | 3    | SonyMusicIndiaVEVO  | 167.57                 |
 
+- **Top 3 channels with highest view per subscriber ratio**
+
+| Rank | YouTuber            | Views per Subscriber   |
+| ---- | ------------------- | ---------------------- |
+| 1    | Markiplier          | 1552                   |
+| 2    | Sony SAB            | 1248                   |
+| 3    | Kimberly Loaiza     | 1222                   |
+
+- **Top 3 channels with highest subscriber engagement rate per video uploaded**
+
+| Rank | YouTuber   | Subscriber Engagement Rate|
+| ---- | -----------| ------------------------- |
+| 1    | Fernanfloo | 412.6                     |
+| 2    | TEDx Talks | 1248                      |
+| 3    | MrBeast    | 1222                      |
+
 ## Dashboard
 [View the PowerBI Dashboard](YOUR_LINK_HERE)
 
