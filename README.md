@@ -8,6 +8,7 @@ Data was sourced from [kaggle](https://www.kaggle.com/datasets/bhavyadhingra0002
 
 ## Key Findings
 - **1. Top 10 Youtubers with the most subscribers**
+
 | Rank | YouTuber          | Subscribers (M) |
 | ---- | ----------------- | --------------- | 
 | 1    | MrBeast           | 307.00          | 
