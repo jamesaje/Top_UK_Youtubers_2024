@@ -63,7 +63,7 @@ Data was sourced from [kaggle](https://www.kaggle.com/datasets/bhavyadhingra0002
 | 3    | MrBeast    | 1222                      |
 
 ## Dashboard
-[View the PowerBI Dashboard](YOUR_LINK_HERE)
+[View the PowerBI Dashboard]([YOUR_LINK_HERE](github.com/jamesaje/Youtubers_2024/blob/main/assets/images/top_US_youtubers.pdf))
 
 <iframe width="600" height="400" src="EMBED_LINK_HERE" frameborder="0" allowfullscreen="true"></iframe>
 
