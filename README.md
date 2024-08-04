@@ -65,22 +65,11 @@ Data was sourced from [kaggle](https://www.kaggle.com/datasets/bhavyadhingra0002
 ## Dashboard
 [View the PowerBI Dashboard](https://github.com/jamesaje/Youtubers_2024/blob/main/assets/images/top_US_youtubers.pdf)
 
-<iframe width="600" height="400" src="EMBED_LINK_HERE" frameborder="0" allowfullscreen="true"></iframe>
-
-## Visual Overview
-![Dashboard Overview](URL_TO_YOUR_IMAGE)
-
 ## Conclusion
-The identified YouTubers present excellent opportunities for marketing campaigns based on their reach and engagement.
-
-## Data Sources
-- [Source 1]
-- [Source 2]
-- [Source 3]
+Among the top YouTube channels in the US, MrBeast is the best to collaborate with to maximize visibility. The identified YouTuber presents excellent opportunities for marketing campaigns based on their reach and engagement.
 
 ## Tools & Libraries
 - PowerBI
-- [Other tools]
-
-## Contact
-For further information, please contact [Your Name] at [Your Contact Information].
+- Excel
+- SQL Server
+- Python
