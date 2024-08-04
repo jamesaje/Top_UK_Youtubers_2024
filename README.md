@@ -4,7 +4,13 @@
 This project identifies the top US YouTubers in 2024, focusing on potential candidates for marketing campaigns. The study uses metrics such as subscriber count, engagement rate, and total views.
 
 ## Methodology
-Data was sourced from [kaggle](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download) and YouTube. 
+- Data was sourced from [kaggle](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download) and YouTube.
+- Explore the data in Excel
+- Use youtube API to get additional info
+- Load into SQL Server
+- Clean the data using SQL
+- Visualize data in Power BI
+- Generate findings and recommendations based on insights
 
 ## Key Findings
 - **1. Top 10 Youtubers with the most subscribers**
